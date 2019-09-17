@@ -1,19 +1,22 @@
 {
-  "name": "js-command-parser",
+  "name": "command-user-prompt",
   "version": "1.0.0",
-  "description": "Parses command line arguments and flags",
+  "description": "Prompts the user on the command line",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicolasalliaume/js-command-parser.git"
+    "url": "git+https://github.com/nicolasalliaume/command-user-prompt.git"
   },
   "author": "Nicolás Alliaume <nicolas@on-lab.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicolasalliaume/js-command-parser/issues"
+    "url": "https://github.com/nicolasalliaume/command-user-prompt/issues"
   },
-  "homepage": "https://github.com/nicolasalliaume/js-command-parser#readme"
+  "homepage": "https://github.com/nicolasalliaume/command-user-prompt#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
