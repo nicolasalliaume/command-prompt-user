@@ -1,5 +1,5 @@
 {
-  "name": "command-user-prompt",
+  "name": "command-prompt-user",
   "version": "1.0.0",
   "description": "Prompts the user on the command line",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicolasalliaume/command-user-prompt.git"
+    "url": "git+https://github.com/nicolasalliaume/command-prompt-user.git"
   },
   "author": "Nicolás Alliaume <nicolas@on-lab.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/nicolasalliaume/command-user-prompt/issues"
+    "url": "https://github.com/nicolasalliaume/command-prompt-user/issues"
   },
-  "homepage": "https://github.com/nicolasalliaume/command-user-prompt#readme",
+  "homepage": "https://github.com/nicolasalliaume/command-prompt-user#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
